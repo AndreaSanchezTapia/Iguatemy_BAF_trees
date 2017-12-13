@@ -6,3 +6,6 @@ docs
 Iguatemy.Rproj
 *.xlsx
 .Rapp.history
+*.pdf
+gbif_all.csv
+maps.zip
