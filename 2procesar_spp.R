@@ -17,5 +17,3 @@ head(spp)
 head(gen_epi)
 spp2 <- cbind(spp, gen_epi)
 write.csv(spp2, "./output/gettaxaresults.csv")
-
-
