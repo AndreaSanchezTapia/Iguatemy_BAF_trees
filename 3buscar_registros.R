@@ -41,3 +41,44 @@ for (i in c(1:742)) {
         }
     }
 }
+
+
+##busqueda uno por uno de cosas que faltaron
+nombre <- "Xylosma glaberrima"
+
+#
+    print(nombre)
+    key <- name_suggest(q = nombre, rank = 'species')$key
+        #key <- name_suggest(q = nombre, rank = 'species')$key[2]
+        #key <- name_suggest(q = nombre, rank = 'species')$key[3]
+    print(key)
+    occs <- list()
+    for (l in 1:length(key)) {
+
+        occs[[l]] <- occ_search(
+            taxonKey = key[l],
+            limit = 100000,
+            hasCoordinate = TRUE,
+            basisOfRecord = "PRESERVED_SPECIMEN",
+            hasGeospatialIssue = F,
+            return = 'data',
+            fields = "minimal"
+        )
+    }
+
+        lapply(occs,dim)
+occs.f <- occs[[1]]
+#occs.f <- occs[[2]]
+#occs.f <- occs[[3]]
+ #       occs.f <- bind_rows(occs[[2]],occs[[3]])
+  #      occs.f <- bind_rows(occs[[3]],occs[[4]])
+   #     occs.f <- bind_rows(occs[[1]],occs[[3]],occs[[4]], occs[[5]])
+    occs.f <- occs.f[!duplicated(occs.f[,c(1,3,4)]),]
+dim(occs.f)
+            if (!is.null(dim(occs.f))) {
+            write.csv(
+                x = data.frame(occs.f),
+                file = paste0("./data/occs/", nombre, ".csv"))
+            cat(paste(nombre, "DONE", "\n"))
+        }
+
