@@ -1,0 +1,1524 @@
+"x"
+"Abarema cochliacarpos (Gomes) Barneby & J.W. Grimes" 3
+"Abarema sp. nova" 3
+"Acanthocladus pulcherrimus (Kuhlm.) J.F.B. Pastore & D. Cardoso" 7
+"Acnistus arborescens (L.) Schltdl." 1
+"Acosmium lentiscifolium Schott" 28
+"Actinostemon cf. klotzschii (Didr.) Pax" 1
+"Actinostemon concolor (Spreng.) Müll. Arg." 2
+"Actinostemon klotzschii (Didr.) Pax" 11
+"Actinostemon sp1/coletar" 1
+"Actinostemon verticillatus (Klotzsch) Baill." 30
+"Adenocalymma subsessilifolium DC." 1
+"Aegiphila integrifolia (Jacq.) B.D.Jacks." 1
+"Aegiphila sellowiana Cham." 1
+"Aegiphila sp.1" 3
+"Aiouea aff. saligna Meisn." 2
+"Aiouea saligna Meisn." 2
+"Albizia pedicellaris (Dc.) L.Rico" 10
+"Albizia polycephala (Benth.)Killip" 18
+"Albizia sp1" 1
+"Albizia sp2" 1
+"Alchornea  sp1" 1
+"Alchornea  sp2" 1
+"Alchornea glandulosa Poepp." 11
+"Alchornea glandulosa subsp. Iricurana (Casar.) Secco" 5
+"Alchornea sp.1" 1
+"Alchornea triplinervia (Spreng.) Müll.Arg." 18
+"Algernonia leandrii (Baill.) G.L.Webster" 8
+"Algernonia obovata (Müll.Arg.) Müll.Arg." 3
+"Alibertia concolor/Myrtaceae sp39" 1
+"Alibertia sp1" 3
+"Alibertia sp2" 3
+"Allagoptera caudescens (Mart.) Kuntze" 5
+"Allophylus edulis(A.St.-Hil., A.Juss. & Cambess.) Radlk." 16
+"Allophylus laevigatus (Turcz.) Radlk." 1
+"Allophylus petiolulatus Radlk." 1
+"Almeidea rubra A.St.-Hil." 9
+"Aloysia virgata (Ruiz & Pav.) Juss." 1
+"Alseis floribunda Schott" 3
+"Alseis pickelii Pilg. & Schmale" 37
+"Amaioua intermedia Mart. ex Schult. & Schult.f." 7
+"Amaioua sp." 2
+"Ampelocera glabra Kuhlm." 11
+"Anacardiaceae" 1
+"Anadenanthera colubrina (Vell.) Brenan" 9
+"Anadenanthera colubrina var. cebil (Griseb.) Altschul" 4
+"Anadenanthera peregrina (L.) Speg." 6
+"Anaxagorea dolichocarpa Sprague & Sandwith" 2
+"Anaxagorea silvatica R.E.Fr." 1
+"Andira anthelmia (Vell.) Benth." 5
+"Andira cf. fraxinifolia Benth." 1
+"Andira fraxinifolia Benth." 10
+"Andira ormosioides Benth." 5
+"Andradea floribunda Allemão" 18
+"Angostura bracteata (Nees & Mart.) Kallunki" 6
+"Aniba firmula (Nees & Mart.) Mez" 11
+"Annona acutiflora Mart." 4
+"Annona cacans Warm." 6
+"Annona cf. cacans Warm." 2
+"Annona dolabripetala Raddi" 18
+"Annona sp1" 1
+"Annona sp2" 1
+"Annona sylvatica A. St.-Hil." 3
+"Annonaceae" 1
+"ANNONACEAE sp." 1
+"Annonaceae sp1" 1
+"Antonia sp." 1
+"Aparisthmium cordatum (A. Juss.) Baill." 7
+"Aparisthymium sp.1" 1
+"APOCYNACEAE sp." 1
+"Apuleia leiocarpa (Vogel) J.F.Macbr." 37
+"Araliaceae sp.1" 1
+"Artocarpus heterophyllus Lam." 1
+"Aspidosperma discolor A.DC." 2
+"Aspidosperma illustre (Vell.) Kuhlm. & Piraja" 1
+"Aspidosperma parvifolium A.DC." 2
+"Aspidosperma polyneuron Müll.Arg." 2
+"Aspidosperma sp.1" 2
+"Aspidosperma spruceanum Benth. ex Müll.Arg." 2
+"Astrocaryum aculeatissimum (Schott) Burret" 61
+"Astronium concinnum Schott" 41
+"Astronium graveolens Jacq." 60
+"Astronium sp." 37
+"Astronium sp1" 3
+"Astronium sp3" 6
+"Astronium sp2" 1
+"Attalea dubia (Mart.) Burret" 1
+"Attalea humilis Mart. ex Spreng." 7
+"Aureliana fasciculata (Vell.) Sendtn." 8
+"Balfourodendron riedelianum (Engl.) Engl." 10
+"Banara brasiliensis (Schott) Benth." 1
+"Banara serrata (Vell.) Warb." 8
+"Barbatimao" 1
+"Barnebydendron riedelii (Tul.) J.H. Kirkbr." 1
+"Basiloxylon brasiliensis (Allemão) K. Schum." 20
+"Bathysa gymnocarpa K.Schum." 5
+"Bathysa mendoncaei K. Schum." 23
+"Bathysa sp" 1
+"Bathysa sp1" 1
+"Bathysa sp2" 1
+"Bathysa sp3" 1
+"Bathysa sp4" 1
+"Bathysa sp5" 1
+"Bathysa sp6" 1
+"Bathysa stipulata (Vell.) C.Presl" 22
+"Bauhinia forficata Link" 3
+"Bauhinia forficata subsp forficata Link." 1
+"Beilschmiedia angustifolia Kosterm." 4
+"Beilschmiedia cf fluminensis Kosterm." 1
+"Beilschmiedia sp1" 1
+"Beilshmiedia fluminensis Kosterm." 5
+"Brasiliopuntia brasiliensis (Willd.) A.Berger" 14
+"Brosimum glaziovii Taub." 26
+"Brosimum guianense (Aubl.) Huber ex Ducke" 33
+"Brosimum lactescens (S.Moore) C.C.Berg" 5
+"Byrsonima intermedia A.Juss." 4
+"Byrsonima laxiflora Griseb." 4
+"Byrsonima laxiflora/Meriania glabra/Rubiaceae sp4" 1
+"Byrsonima sericea DC." 1
+"Byrsonima sp1" 1
+"Cabralea canjerana (Vell.) Mart." 30
+"CAESALPINIOIDEAE sp.1" 1
+"CAESALPINIOIDEAE sp.2" 2
+"Calophyllum brasiliense Cambess." 9
+"Calophyllum flavoramulum M.R.Hend. & Wyatt-Sm." 1
+"Calyptranthes cf. brasiliensis Spreng." 2
+"Calyptranthes cf. concinna DC." 9
+"Calyptranthes cf. grandifolia O.Berg" 1
+"Calyptranthes cf. lucida Mart. ex DC." 1
+"Calyptranthes concinna DC." 2
+"Calyptranthes grandiflora O.Berg" 1
+"Calyptranthes lucida Mart. ex DC." 12
+"Calyptranthes sp." 1
+"Calyptranthes sp. 4" 1
+"Calyptranthes sp1" 4
+"Calyptranthes sp2" 1
+"Calyptranthes sp3" 1
+"Calyptranthes sp5" 4
+"Calyptranthes sp6" 1
+"Calyptranthes strigipes O.Berg" 10
+"Campomanesia cf. eugenioides (Cambess.) D.Legrand ex Landrum" 1
+"Campomanesia cf. guaviroba (DC.) Kiaersk." 1
+"Campomanesia eugenioides(Cambess.) D.Legrand ex Landrum" 3
+"Campomanesia guaviroba (DC.) Kiaersk." 4
+"Campomanesia guazumifolia (Cambess.) O.Berg" 7
+"Campomanesia sp.1" 1
+"Campomanesia sp.2" 1
+"Campomanesia xanthocarpa (Mart.) O.Berg" 2
+"Capparidastrum brasilianum (DC.) Hutch." 6
+"Cariniana cf. rubra Gardner ex Miers" 1
+"Cariniana estrellensis (Raddi) Kuntze" 2
+"Cariniana legalis (Mart.) Kuntze" 8
+"Carpotroche brasiliensis (Raddi) A Gray" 25
+"Caryocar edule Casar." 1
+"Casearia aff sylvestris Sw." 2
+"Casearia aff. arborea (Rich.) Urb." 7
+"Casearia aff. pauciflora Cambess." 1
+"Casearia arborea (Rich.) Urb." 20
+"Casearia commersoniana Cambess." 3
+"Casearia decandra Jacq." 6
+"Casearia obliqua Spreng." 8
+"Casearia pauciflora Cambess." 1
+"Casearia resinifera Spruce ex Eichler" 4
+"Casearia sp." 2
+"Casearia sp. nov." 9
+"Casearia sp.1" 1
+"Casearia sylvestris Sw." 42
+"Cathedra rubricaulis Miers" 1
+"Cecropia glaziovii Snethl." 2
+"Cecropia hololeuca Miq." 5
+"Cecropia pachystachya Trécul" 11
+"Cecropia sp." 1
+"Cecropia sp1" 2
+"Cedrela odorata L." 6
+"Cedrela sp1" 1
+"Ceiba crispiflora (Kunth) Ravenna" 4
+"Ceiba erianthos (Cav.) K.Schum." 3
+"CELASTRACEAE sp.1" 1
+"CELASTRACEAE sp.2" 3
+"Celtis iguanaea (Jacq.) Sarg." 8
+"Celtis orthacanthos Planch." 2
+"Centrolobium robustum (Vell.)Benth." 1
+"Centrolobium sclerophyllum H.C.Lima" 5
+"cf canela Nectandra?" 1
+"Chamaecrista ensiformis (Vell.)H.S.Irwin & Barneby" 9
+"Chionanthus filiformis (Vell.) P.S.Green" 1
+"Chomelia sp." 1
+"Chrysobalanaceae sp1" 2
+"Chrysobalanaceae sp2" 1
+"Chrysobalanaceae sp3" 1
+"Chrysobalanaceae sp4" 1
+"Chrysobalanaceae sp5" 1
+"Chrysobalanaceae sp6" 2
+"Chrysobalanaceae sp7" 3
+"Chrysobalanaceae sp9" 1
+"Chrysochlames saldanhae (Engl.) Oliviera-Filho" 3
+"Chrysophyllum cf. splendens Spreng." 1
+"Chrysophyllum flexuosum Mart." 29
+"Chrysophyllum gonocarpum (Mart. & Eichler ex Miq.) Engl." 17
+"Chrysophyllum imperiale (Linden ex K.Koch & Fintelm.) Benth. & Hook.f." 2
+"Chrysophyllum lucentifolium Cronquist" 31
+"Chrysophyllum sp." 1
+"Chrysophyllum sp1" 4
+"Chrysophyllum sp2" 1
+"Chrysophyllum splendens Spreng." 7
+"Chrysophyllum viride Mart. & Eichler ex Miq." 1
+"Cinnamomum riedelianum Kosterm." 1
+"Cinnamomum sp1" 4
+"Cinnamomum sp2" 4
+"Citharexylum myrianthum Cham." 1
+"Citronella paniculata (Mart.) R.A.Howard" 2
+"Citrus reticulata Blanco" 1
+"Citrus sp." 2
+"Clarisia racemosa Ruiz & Pav." 3
+"Clethra scabra Pers." 10
+"Clusia lanceolata Cambess." 1
+"Cnidoscolus oligandrus (Müll.Arg.) Pax" 1
+"Cnidoscolus sp.1" 3
+"Coccoloba alnifolia Casar." 4
+"Coccoloba declinata (Vell.) Mart." 9
+"Coccoloba glaziovii Lindau" 2
+"Coccoloba mosenii Lindau" 1
+"Coccoloba sp.1" 3
+"Coccoloba striata Benth." 1
+"Coccoloba warmingii Meisn." 9
+"Coffea arabica L." 1
+"Condylocarpon sp." 1
+"CONNARACEAE sp." 1
+"Copaifera langsdorffii Desf." 9
+"Copaifera lucens Dwyer" 37
+"Copaifera trapezifolia Hayne" 1
+"Cordia sellowiana Cham." 2
+"Cordia sp1" 1
+"Cordia sp2" 1
+"Cordia sp3" 1
+"Cordia taguahyensis Vell." 5
+"Cordia trichoclada A.DC." 2
+"Cordiera concolor (Cham.) Kuntze" 2
+"Couepia monteclarensis Prance" 1
+"Couepia schottii Fritsch" 2
+"Couepia sp." 3
+"Couepia sp1" 1
+"Couepia venosa Prance" 3
+"Couratari asterotricha Prance" 9
+"Couratari macrosperma A.C.Sm." 14
+"Couratari sp.1" 1
+"Coussapoa curranii S.F.Blake" 2
+"Coussapoa microcarpa (Schott) Rizzini" 5
+"Coussarea hydrangeifolia (Benth.) Benth. & Hook.f. ex Müll.Arg." 2
+"Coussarea megistophylla Standl." 4
+"Coussarea nodosa (Benth.) Müll.Arg." 1
+"Coussarea sp." 1
+"Coussarea sp1" 2
+"Coussarea sp2" 2
+"Coussarea triflora Müll.Arg." 2
+"Crateva tapia L." 5
+"Cryptocarya aff. moschata Nees & Mart." 4
+"Cryptocarya micrantha Meisn." 2
+"Cryptocarya moschata Nees & Mart." 6
+"Cryptocarya riedeliana P.L.R.Moraes" 3
+"Cryptocarya saligna Mez" 9
+"Cupania concolor Radlk." 5
+"Cupania emarginata Cambess." 1
+"Cupania furfuracea Radlk." 10
+"Cupania ludowigii Somner & Ferrucci" 3
+"Cupania oblongifolia Mart." 43
+"Cupania racemosa (Vell.) Radlk." 19
+"Cupania schizoneura Radlk." 8
+"Cupania sp." 7
+"Cupania sp1" 1
+"Cupania sp2" 1
+"Cupania sp3" 1
+"Cupania vernalis Cambess." 4
+"Cybianthus cuneifolius Mart." 2
+"Cybianthus sp. 1" 1
+"Cybistax antisyphilitica (Mart.) Mart." 3
+"Cymbopetalum brasiliense (Vell.) Benth. ex Baill." 1
+"Dahlstedtia pinnata (Benth.)Malme" 6
+"Dalbergia foliolosa Benth." 1
+"Dalbergia frutescens (Vell.)Britton" 6
+"Dalbergia lateriflora Benth." 2
+"Dalbergia nigra (Vell.)Benth." 16
+"Daphnopsis martii Meisn." 6
+"Daphnopsis martii/Cabralea canjerana" 1
+"Deguelia costata (Benth.) A.M.G. Azevedo & R.A. Camargo" 4
+"Dendropanax aff. monogynus (Vell.) Seem." 1
+"Dictyoloma vandellianum A.Juss." 1
+"Dilodendron bipinnatum Radlk." 3
+"Diospyros apeibocarpos Raddi" 1
+"Diospyros hispida A.DC." 2
+"Diploon cuspidatum (Hoehne) Cronquist" 4
+"Discocarpus pedicellatus Fiaschi & Cordeiro" 3
+"Duguetia microphylla (R.E.Fr.) R.E.Fr." 6
+"Duguetia pohliana Mart." 4
+"Duguetia riedeliana R.E.Fr." 2
+"Duguetia sessilis (Vell.) Maas" 4
+"Duguetia sp." 1
+"Ecclinusa ramiflora Mart." 23
+"Endlicheria glomerata Mez" 3
+"Endlicheria paniculata (Spreng.) J.F.Macbr." 1
+"Enterolobium glaziovii (Benth.)Mesquita" 1
+"Ephedranthus sp. nov." 6
+"Eriotheca candolleana (K.Schum.) A.Robyns" 14
+"Eriotheca macrophylla (K.Schum.) A.Robyns" 1
+"Eriotheca pentaphylla (Vell.) A.Robyns" 12
+"Erythrina speciosa Andrews" 1
+"Erythrina verna Vell." 3
+"Erythroxylum cf. sp." 2
+"Erythroxylum citrifolium A.St.-Hil." 9
+"Erythroxylum cuspidifolium Mart." 17
+"Erythroxylum deciduum A.St.-Hil." 3
+"Erythroxylum passerinum Mart." 1
+"Erythroxylum pulchrum A.St.-Hil." 10
+"Erythroxylum sp1" 1
+"Erythroxylum sp2" 1
+"Erythroxylum sp3" 1
+"Eschweilera ovata (Cambess.) Mart. ex Miers" 1
+"Esenbeckia grandiflora Mart." 2
+"Eugenia  sp1" 1
+"Eugenia brasiliensis Lam." 2
+"Eugenia candolleana DC." 3
+"Eugenia cf. arenaria Cambess." 3
+"Eugenia cf. astringens Cambess." 1
+"Eugenia cf. batingabranca Sobral" 1
+"Eugenia cf. copacabanensis Kiaersk." 1
+"Eugenia cf. macahensis O.Berg" 1
+"Eugenia cf. macrosperma DC." 3
+"Eugenia cf. microcarpa/Eugenia copacabanensis" 1
+"Eugenia cf. psidiiflora O.Berg" 1
+"Eugenia cf. punicifolia (Kunth) DC." 1
+"Eugenia cf. rostrata O.Berg" 1
+"Eugenia cf. stigmatosa DC." 1
+"Eugenia cf. sulcata Spring ex Mart." 1
+"Eugenia cf. umbrosa O.Berg" 1
+"Eugenia excelsa O.Berg" 11
+"Eugenia florida DC." 9
+"Eugenia macahensis O.Berg" 4
+"Eugenia magnifica Spring ex Mart." 1
+"Eugenia micropora DC." 7
+"Eugenia monosperma Vell." 3
+"Eugenia neoglomerata Sobral" 2
+"Eugenia oblongata O.Berg" 7
+"Eugenia pisiformis Cambess." 17
+"Eugenia prasina O.Berg" 7
+"Eugenia punicifolia (Kunth) DC." 5
+"Eugenia rostrata O.Berg" 9
+"Eugenia sp. 4" 1
+"Eugenia sp10" 1
+"Eugenia sp11" 2
+"Eugenia sp12" 2
+"Eugenia sp13" 1
+"Eugenia sp14" 1
+"Eugenia sp2" 1
+"Eugenia sp3" 2
+"Eugenia sp5" 1
+"Eugenia sp6" 1
+"Eugenia sp7" 4
+"Eugenia sp8" 2
+"Eugenia sp9" 1
+"Eugenia speciosa Cambess." 5
+"Eugenia splendens O.Berg" 1
+"Eugenia subundulata Kiaersk." 2
+"Eugenia sulcata Spring ex Mart." 2
+"Eugenia supraaxillaris Spreng." 2
+"Eugenia umbelliflora O.Berg" 2
+"Eugenia umbrosa O.Berg" 3
+"Eugenia villae-novae Kiaersk." 8
+"Eugenia xanthoxyloides Cambess." 1
+"Euphorbiaceae sp.4" 3
+"Euphorbiaceae sp.5" 2
+"Euphorbiaceae sp1" 1
+"Euphorbiaceae sp2" 1
+"Euphorbiaceae sp3" 1
+"Euplassa sp." 1
+"Euterpe edulis Mart." 63
+"Exostyles venusta Spreng." 5
+"FABACEAE FABOIDEAE sp.1" 1
+"FABACEAE MIMOSOIDEAE sp." 5
+"Fabaceae sp1" 1
+"Faramea cf. coerulea (Nees & Mart.) DC." 1
+"Faramea multiflora A.Rich." 1
+"Faramea pachyantha Müll.Arg." 5
+"Faramea sp.2" 1
+"Faramea sp.3" 1
+"Faramea sp.4" 1
+"Faramea sp.5" 1
+"Faramea sp1" 1
+"Ficus cestrifolia Schott" 1
+"Ficus cf. gomelleira Kunth & C.D.Bouché" 5
+"Ficus clusiifolia Schott" 1
+"Ficus eximia Schott" 1
+"Ficus maxima Mill." 2
+"Ficus pulchella Schott ex Spreng." 2
+"Ficus sp." 1
+"Ficus sp. 1" 1
+"Ficus sp.2" 2
+"Galipea sp" 1
+"Gallesia integrifolia (Spreng.) Harms" 13
+"Garcinia brasiliensis Mart." 19
+"Geissospermum laeve (Vell.) Miers" 4
+"Genipa americanabL." 1
+"Genipa infundibuliformisb Zappi & Semir" 1
+"Genipa sp." 1
+"Geonoma pohliana Mart." 8
+"Gochnatia polymorpha (Less.) Cabrera" 137
+"Gochnatia?" 1
+"Gomidesia sp2" 2
+"Gordonia fruticosa (Schrad.) H.Keng" 2
+"Grazielodendron rio-docensis H.C.Lima" 3
+"Guapira aff. hirsuta (Choisy) Lundell" 8
+"Guapira areolata (Heimerl) Lundell" 1
+"Guapira hoehnei (Standl.) Lundell" 2
+"Guapira opposita (Vell.) Reitz" 95
+"Guapira opposita/Myrtaceae" 1
+"Guapira opposita/Myrtaceaea 29" 1
+"Guapira opposita/Ocotea schottii" 1
+"Guapira opposita/Pseudopiptadenia inaequalis" 1
+"Guapira sp." 6
+"Guarea guidonia (L.) Sleumer" 87
+"Guarea kunthiana A.Juss." 2
+"Guarea macrophylla Vahl" 20
+"Guarea sp.3" 1
+"Guarea sp.4" 1
+"Guarea sp.5" 1
+"Guarea sp1" 1
+"Guarea sp2" 1
+"Guatteria australis A.St.-Hil." 8
+"Guatteria candolleana Schltdl." 3
+"Guatteria ferruginea A.St.-Hil." 2
+"Guatteria sp1" 1
+"Guatteria xylopioides R.E.Fr." 9
+"Guazuma crinita Mart." 3
+"Guettarda sericea Müll.Arg." 1
+"Guettarda sp.1" 1
+"Guettarda viburnoides Cham. & Schltdl." 2
+"Handroanthus cf. umbellatus (Sond.) Mattos" 9
+"Handroanthus chrysotrichus (Mart. ex DC.) Mattos" 4
+"Handroanthus heptaphyllus (Vell.) Mattos" 1
+"Handroanthus ochraceus (Cham.) Mattos" 1
+"Handroanthus serratifolius (Vahl) S.O.Grose" 12
+"Handroanthus sp.1" 1
+"Handroanthus sp.2" 1
+"Handroanthus umbellatus (Sond.) Mattos" 3
+"Hedyosmum brasiliense Mart." 1
+"Heisteria ovata Benth." 3
+"Heisteria perianthomega (Vell.) Sleumer" 6
+"Heisteria silvianii Schwacke" 6
+"Helicostylis tomentosa (Poepp. & Endl.) J.F.Macbr." 24
+"Henriettea saldanhaei Cogn." 2
+"Heteropterys nitida DC." 1
+"Heteropterys leschenaultiana A.Juss." 1
+"Hieronyma alchorneoides Allemão" 9
+"Hieronyma sp1" 1
+"Himatanthus bracteatus (A.DC.) Woodson" 4
+"Himatanthus lancifolius (Müll.Arg.) Woodson" 5
+"Hirtella angustifolia Schott" 4
+"Hirtella gracilipes (Hook.f.) Prance" 1
+"Hirtella hebeclada Moric. ex DC." 14
+"Hirtella sp." 2
+"Hirtella sp1" 1
+"Hirtella triandra Sw." 3
+"Hortia arborea Engl." 2
+"Hortia sp" 2
+"Hydrogaster trinervis Kuhlm" 2
+"Hyeronima alchorneoides Allemão" 1
+"Hyeronima oblonga (Tul.) Müll. Arg." 3
+"Hymenaea aurea Y.-T.Lee & Langenh." 1
+"Hymenaea courbaril L." 5
+"Hymenolobium janeirense Kuhlm." 5
+"Hyptidendron asperrimum (Spreng.) Harley" 1
+"Ilex congonhinha Loes." 1
+"Ilex dumosa Reissek" 2
+"Ilex sp" 1
+"indet 1080 (tapicuru)" 1
+"indet 1122" 1
+"Indet 116" 1
+"indet 1216" 2
+"indet 123" 1
+"indet 1248" 1
+"indet 169" 1
+"indet 172" 3
+"indet 2439" 1
+"indet 278" 3
+"indet 3338" 1
+"indet 3408" 1
+"indet 3429" 1
+"indet 3493" 1
+"indet 3514" 1
+"indet 3515" 1
+"indet 3554" 1
+"indet 3572" 1
+"indet 3715" 1
+"indet 3731" 1
+"indet 3733" 1
+"indet 3740" 1
+"indet 3825" 1
+"indet 3882" 1
+"indet 3908" 1
+"indet 3988" 1
+"indet 3990" 1
+"indet 4001" 1
+"indet 4028" 1
+"indet 4162" 1
+"indet 4185" 1
+"indet 4229" 1
+"indet 4231" 1
+"indet 4238" 2
+"indet 4241" 1
+"indet 4266" 1
+"indet 4295" 1
+"indet 4345" 1
+"indet 4391" 1
+"indet 4397" 2
+"indet 4432" 3
+"indet 4459" 1
+"indet 4477" 1
+"indet 4494" 1
+"indet 4668" 1
+"indet 5080" 1
+"indet 5154" 2
+"indet 5216" 1
+"indet 5267" 1
+"indet 5280" 1
+"indet 5306" 1
+"indet 533" 1
+"indet 5377" 1
+"indet 5390" 1
+"indet 5399" 1
+"indet 5439" 1
+"indet 5483" 1
+"indet 5598" 1
+"indet 5683" 2
+"indet 5738" 1
+"indet 5847" 1
+"indet 5949" 1
+"indet 5979" 1
+"indet 6016" 1
+"indet 6081" 1
+"indet 65" 3
+"indet RR251" 1
+"indet RR270" 4
+"indet RR337" 1
+"indet. 1" 1
+"Indet. 10" 1
+"Indet. 2" 1
+"indet. 3" 1
+"Indet. 5" 1
+"Indet. 6" 1
+"indet. 7" 1
+"indet. 8" 2
+"Indet. 9" 1
+"indet829" 1
+"Indeterminada 100" 1
+"Indeterminada 101" 1
+"Indeterminada 102" 1
+"Indeterminada 103" 1
+"Indeterminada 104" 1
+"Indeterminada 105" 1
+"Indeterminada 106" 1
+"Indeterminada 107" 1
+"Indeterminada 108" 1
+"Indeterminada 109" 1
+"Indeterminada 110" 1
+"Indeterminada 112" 1
+"Indeterminada 113" 1
+"Indeterminada 114" 1
+"Indeterminada 115" 1
+"Indeterminada 116" 1
+"Indeterminada 117" 1
+"Indeterminada 118" 1
+"Indeterminada 119" 1
+"Indeterminada 120" 1
+"Indeterminada 121" 1
+"Indeterminada 122" 1
+"Indeterminada 123" 1
+"Indeterminada 124" 2
+"Indeterminada 125" 1
+"Indeterminada 126" 1
+"Indeterminada 127" 1
+"Indeterminada 128" 1
+"Indeterminada 129" 1
+"Indeterminada 130" 1
+"Indeterminada 131" 1
+"indeterminada 132" 1
+"indeterminada 133" 1
+"indeterminada 134" 1
+"indeterminada 2" 1
+"Indeterminada 20" 1
+"Indeterminada 21" 1
+"Indeterminada 22" 1
+"Indeterminada 23" 1
+"Indeterminada 38" 1
+"Indeterminada 39" 1
+"Indeterminada 4" 1
+"Indeterminada 45" 1
+"Indeterminada 46" 1
+"Indeterminada 47" 1
+"Indeterminada 48" 1
+"Indeterminada 5" 1
+"Indeterminada 50" 1
+"Indeterminada 52" 1
+"Indeterminada 53" 1
+"Indeterminada 54" 1
+"Indeterminada 57" 1
+"Indeterminada 58" 1
+"Indeterminada 59" 1
+"Indeterminada 6" 1
+"Indeterminada 60" 1
+"Indeterminada 61" 1
+"Indeterminada 62" 1
+"Indeterminada 63" 1
+"Indeterminada 64" 1
+"Indeterminada 65" 1
+"Indeterminada 66" 1
+"Indeterminada 67" 1
+"Indeterminada 68" 1
+"Indeterminada 69" 1
+"Indeterminada 7" 1
+"Indeterminada 70" 1
+"Indeterminada 71" 1
+"Indeterminada 72" 1
+"Indeterminada 73" 1
+"Indeterminada 74" 1
+"Indeterminada 75" 1
+"Indeterminada 76" 1
+"Indeterminada 77" 1
+"Indeterminada 78" 1
+"Indeterminada 79" 1
+"Indeterminada 80" 1
+"Indeterminada 81" 1
+"Indeterminada 82" 1
+"Indeterminada 83" 1
+"Indeterminada 84" 1
+"Indeterminada 85" 1
+"Indeterminada 86" 1
+"Indeterminada 87" 1
+"Indeterminada 88" 1
+"Indeterminada 89" 1
+"Indeterminada 90" 1
+"Indeterminada 91" 1
+"Indeterminada 92" 1
+"Indeterminada 93" 1
+"Indeterminada 94" 1
+"Indeterminada 95" 1
+"Indeterminada 96" 1
+"Indeterminada 97" 1
+"Indeterminada 98" 1
+"Indeterminada 99" 1
+"Indeterminada sp1" 3
+"Indeterminada sp2" 2
+"Indeterminada sp3" 2
+"Indeterminada sp4" 1
+"Indeterminada sp5" 1
+"Indeterminada sp6" 1
+"Indeterminada sp7" 1
+"Inga capitata Desv." 16
+"Inga cf. lanceifolia Benth." 2
+"Inga edulis Mart." 1
+"Inga flagelliformis (Vell.)Mart." 2
+"Inga hispida Benth." 2
+"Inga lanceifolia Benth." 4
+"Inga laurina (Sw.)Willd." 11
+"Inga lenticellata Benth." 3
+"Inga leptantha Benth." 1
+"Inga marginata Willd." 1
+"Inga mendoncaei Harms" 6
+"Inga sp." 2
+"Inga sp.2" 1
+"Inga sp1" 1
+"Inga striata Benth." 3
+"Inga tenuis (Vell.) Mart." 1
+"Inga thibaudiana DC." 3
+"Ixora aff. brevifolia Benth." 1
+"Ixora gardneriana Benth." 1
+"Jacaranda aff. brasiliana (Lam.) Pers." 2
+"Jacaranda macrantha Cham." 10
+"Jacaranda puberula Cham." 6
+"Jacaranda puberula/Psychotria glaziovii" 1
+"Jacaranda sp.1" 3
+"Jacaranda sp.2" 1
+"Jacaratia heptaphylla (Vell.) A. DC." 9
+"Jacaratia spinosa (Aubl.) A.DC." 2
+"Joannesia princeps Vell." 22
+"Kielmeyera cf. excelsa Cambess." 3
+"Kielmeyera insignis Saddi" 1
+"Lacistema pubescens Mart." 49
+"Lacunaria crenata (Tul.) A.C.Sm." 2
+"Lacunaria sp" 1
+"Lafoensia vandelliana Cham. & Schltdl." 1
+"Lamanonia ternata Vell." 3
+"Lamiaceae sp1" 1
+"Lauraceae" 3
+"Lauraceae sp.1" 2
+"Lauraceae sp.2" 2
+"Lauraceae sp.3" 1
+"Lauraceae sp1" 2
+"Lauraceae sp2" 1
+"Lauraceae sp3" 1
+"Lauraceae sp4" 1
+"Lauraceae sp5" 1
+"Lecythidaceae sp1" 4
+"Lecythidaceae sp2" 3
+"Lecythis cf. pisonis Cambess." 2
+"Lecythis lanceolata Poir." 4
+"Lecythis lurida (Miers) S.A.Mori" 11
+"Lecythis pisonis Cambess." 6
+"Leguminosae" 1
+"Leguminosae sp1" 1
+"Leguminosae sp2" 1
+"Libidibia ferrea (Mart. ex Tul.) L.P.Queiroz" 1
+"Licania cf. hoehnei Pilg." 4
+"Licania hoehnei Pilg." 5
+"Licania hoehnei/Guapira opposita" 1
+"Licania kunthiana Hook.f." 22
+"Licania octandra (Hoffmanns. ex Schult.) Kuntze" 5
+"Licania heteromorpha Benth." 1
+"Licaria aff. armeniaca (Nees) Kosterm." 1
+"Licaria aff. bahiana Kurz" 1
+"Licaria armeniaca (Nees) Kosterm." 7
+"Licaria bahiana Kurz" 5
+"Licaria guianensis Aubl." 2
+"Licaria sp" 1
+"Licaria sp1" 6
+"LOGANIACEAE sp." 1
+"Lonchocarpus costatus Benth." 1
+"Lonchocarpus cultratus (Vell.) A.M.G. Azevedo & H.C. Lima" 6
+"Luehea conwentzii K.Schum." 6
+"Luehea divaricata Mart." 7
+"Luehea grandiflora Mart." 1
+"Mabea fistulifera Mart." 36
+"Machaerium  incorruptibile Allemão" 1
+"Machaerium aculeatum Raddi" 1
+"Machaerium aff. acutifolium Vogel" 1
+"Machaerium brasiliense Vogel" 13
+"Machaerium cantarellianum Hoehne" 1
+"Machaerium cf. acutifolium Vogel" 2
+"Machaerium cf. firmum (Vell.)Benth." 3
+"Machaerium firmum (Vell.)Benth." 1
+"Machaerium incorruptibile (Vell.) Benth." 15
+"Machaerium isadelphum(E.Mey.)Standl." 1
+"Machaerium lanceolatum (Vell.)J.F.Macbr." 2
+"Machaerium legale (Vell.)Benth." 1
+"Machaerium leucopterum Vogel" 3
+"Machaerium nyctitans (Vell.) Benth." 13
+"Machaerium oblongifolium Vogel" 1
+"Machaerium obovatum Kuhlm. & Hoehne" 1
+"Machaerium paraguariense Hassl." 2
+"Machaerium pedicellatum Vogel" 6
+"Machaerium sp." 1
+"Machaerium stipitatum (DC.) Vogel" 1
+"Maclura tinctoria (L.) D.Don ex Steud." 2
+"Macrothumia kuhlmannii (Sleumer) Alford" 9
+"Macrotorus utriculatus Perkins" 1
+"Magnolia ovata (A.St.-Hil.) Spreng." 4
+"Malpighiaceae sp.1" 6
+"Malpighiaceae sp1" 2
+"Manihot sp.1" 4
+"Manilkara salzmannii (A.DC.) H.J.Lam" 1
+"Manilkara sp" 5
+"Manilkara sp." 1
+"Manilkara sp1" 3
+"Manilkara sp2/Micropholis sp1" 2
+"Manilkara subsericea (Mart.) Dubard" 5
+"Margaritaria nobilis L.f." 4
+"Marlierea cf. obscura O.Berg" 1
+"Marlierea cf. obversa D.Legrand" 1
+"Marlierea cf. tomentosa Cambess." 2
+"Marlierea dimorpha  O. Berg" 2
+"Marlierea dimorpha O.Berg" 3
+"Marlierea excoriata Mart." 4
+"Marlierea floribunda" 1
+"Marlierea obscura O.Berg" 2
+"Marlierea silvatica (Gardner) Kiaersk." 3
+"Marlierea sp. 1" 1
+"Marlierea sp.2" 2
+"Marlierea sp1" 1
+"Marlierea sp2" 2
+"Marlierea sp3" 1
+"Marlierea sp4" 2
+"Marlierea sp5" 5
+"Marlierea sp6" 4
+"Marlierea sp7" 1
+"Marlierea sp8" 1
+"Marlierea sucrei G.M. Barroso & Peixoto" 1
+"Marlierea tomentosa Cambess." 2
+"Martiodendron mediterraneum (Mart. ex Benth.) R.C.Köppen" 1
+"Matayba aff. guianensis Aubl." 1
+"Matayba cf. juglandifolia Radlk." 5
+"Matayba cf. sylvatica (Casar.) Radlk." 6
+"Matayba grandis Radlk." 3
+"Matayba guianensis Aubl." 7
+"Matayba juglandifolia Radlk." 8
+"Matayba sp" 2
+"Matayba sp." 2
+"Matayba sp.1" 5
+"Maytenus ardisiaefolia Reiss." 4
+"Maytenus brasiliensis Mart." 6
+"Maytenus cestrifolia Reissek" 6
+"Maytenus communis Reissek" 2
+"Maytenus evonymoides Reissek" 2
+"Maytenus gonoclada Mart." 6
+"Maytenus longifolia Reissek" 2
+"Maytenus obtusifolia Mart." 6
+"Maytenus pittieriana Steyerm." 1
+"Maytenus robusta Reissek" 2
+"Maytenus samydaeformis Reiss." 3
+"Maytenus schumanniana Loes." 2
+"Maytenus sp.1" 9
+"Maytenus sp.2" 1
+"Maytenus sp.3" 1
+"Maytenus sp1" 1
+"Maytenus sp2" 3
+"Maytenus sp3" 4
+"Melanopsidium nigrum Colla" 4
+"Melanoxylon brauna Schott" 9
+"Melastomataceae sp" 1
+"MELASTOMATACEAE sp." 1
+"Melastomataceae sp1" 1
+"Melastomataceae sp2" 1
+"Melastomataceae sp3" 1
+"Melastomataceae sp4" 1
+"Melastomataceae sp5" 1
+"Melastomataceae sp6" 1
+"Melastomataceae sp7" 1
+"Melastomataceae sp8" 1
+"Meliaceae sp" 1
+"MELIACEAE sp.1" 2
+"MELIACEAE sp.2" 1
+"Meliaceae sp1" 1
+"Meriania glabra (DC.) Triana" 5
+"Meriania glabra/Swartzia myrtifolia" 1
+"Meriania sp1" 1
+"Meriania sp2" 1
+"Meriania sp3" 1
+"Metrodorea nigra A. St.-Hil." 34
+"Metternichia princeps Mik." 8
+"Mezilaurus navalium (Allem.) Taub. ex Mez" 1
+"Miconia albicans (Sw.) Steud." 7
+"Miconia brasiliensis (Spreng.) Triana" 6
+"Miconia budlejoides Triana" 6
+"Miconia calvescens DC." 10
+"Miconia chartacea Triana" 1
+"Miconia cinnamomifolia (DC.) Naudin" 40
+"Miconia cubatanensis Hoehne" 5
+"Miconia holosericea (L.) DC." 10
+"Miconia hypoleuca (Benth.) Triana" 1
+"Miconia latecrenata (DC.) Naudin" 3
+"Miconia lepidota Schrank & Mart. ex DC." 9
+"Miconia prasina (Sw.) DC." 15
+"Miconia pusilliflora (DC.) Naudin" 1
+"Miconia sellowiana Naudin" 1
+"Miconia serrulata (DC.) Naudin" 4
+"Miconia sp.1" 2
+"Miconia staminea DC." 1
+"Micropholis compta Pierre" 1
+"Micropholis crassipedicellata (Mart. & Eichler ex Miq.) Pierre" 16
+"Micropholis gardneriana (A.DC.) Pierre" 2
+"Micropholis guyanensis (A.DC.) Pierre" 4
+"Micropholis sp.1" 1
+"Micropholis sp1" 3
+"Micropholis sp2" 2
+"Micropholis sp3" 2
+"Micropholis sp4" 1
+"Mimosa bimucronata (DC.) Kuntze" 2
+"Moldenhawera floribunda Schrad." 2
+"Moldenhawera polysperma (Vell.) Stellfeld" 6
+"Mollinedia aff. longicuspidata Perkins" 1
+"Mollinedia cf. glabra (Spreng.) Perkins" 5
+"Mollinedia cf. schottiana (Spreng.) Perkins" 1
+"Mollinedia cf. uleana Perkins" 1
+"Mollinedia elegans Tul." 1
+"Mollinedia glabra (Spreng.) Perkins" 1
+"Mollinedia lamprophylla Perkins" 2
+"Mollinedia lamprophylla/Ocotea dispersa" 1
+"Mollinedia lanceolata Ruiz & Pav." 7
+"Mollinedia longifolia/Picramnia glazioviana" 1
+"Mollinedia luizae Peixoto" 1
+"Mollinedia oligantha Perkins" 4
+"Mollinedia salicifolia Perkins" 3
+"Mollinedia schottiana (Spreng.) Perkins" 5
+"Mollinedia sp1" 1
+"Moraceae sp" 1
+"Mouriri arborea Gardner" 1
+"Mouriri glazioviana Cogn." 1
+"Mouriri sp" 1
+"Mouriri sp1" 5
+"Myrceugenia myrcioides (Cambess.) O.Berg" 11
+"Myrceugenia sp1" 1
+"Myrcia anacardiifolia Gardner" 4
+"Myrcia anceps (Spreng.) O.Berg" 27
+"Myrcia cf. guianensis (Aubl.) DC." 3
+"Myrcia cf. splendens (Sw.) DC." 1
+"Myrcia cf. tijucensis Kiaersk." 2
+"Myrcia cf. vittoriana Kiaersk." 1
+"Myrcia grandifolia Cambess." 2
+"Myrcia hexasticha Kiaersk." 2
+"Myrcia ilheosensis Kiaersk." 3
+"Myrcia laxiflora Cambess." 11
+"Myrcia laxiflora/Duguetia microphylla" 1
+"Myrcia multiflora (Lam.) DC." 5
+"Myrcia pubipetala Miq." 4
+"Myrcia racemosa (O.Berg) Kiaersk." 6
+"Myrcia sp. 2" 4
+"Myrcia sp.1" 1
+"Myrcia sp1" 2
+"Myrcia sp2" 1
+"Myrcia spectabilis DC." 13
+"Myrcia splendens (Sw.) DC." 47
+"Myrcia tenuivenosa Kiaersk." 11
+"Myrcia tijucensis Kiaersk." 3
+"Myrciaria disticha O. Berg" 1
+"Myrciaria disticha O.Berg" 2
+"Myrciaria floribunda (H.West ex Willd.) O.Berg" 13
+"Myrciaria glazioviana (Kiaersk.) G.M.Barroso ex Sobral" 1
+"Myrciaria guaquiea (Kiaersk.) Mattos & D.Legrand" 2
+"Myrciaria sp.1" 2
+"Myrciaria tenella (DC.) O.Berg" 2
+"Myrocarpus frondosus Allemão" 10
+"Myroxylon peruiferumL.f." 1
+"Myrsine coriacea (Sw.) R.Br. ex Roem. & Schult." 19
+"Myrsine hermogenesii (Jung-Mend. & Bernacci) M.F.Freitas & Kin.-Gouv." 6
+"Myrsine parvula (Mez) Otegui" 4
+"Myrsine parvula/Solanum schlechedelianum" 1
+"Myrsine umbellata Mart." 3
+"Myrtaceae 43/Ocotea catharinensis" 1
+"Myrtaceae sp" 1
+"Myrtaceae sp. 1 (louca)" 2
+"Myrtaceae sp. 2" 1
+"Myrtaceae sp. 3" 1
+"Myrtaceae sp. 4" 1
+"Myrtaceae sp. 5" 2
+"Myrtaceae sp. 7" 1
+"Myrtaceae sp.8" 1
+"Myrtaceae sp1" 3
+"Myrtaceae sp10" 1
+"Myrtaceae sp100" 1
+"Myrtaceae sp101" 1
+"Myrtaceae sp102" 1
+"Myrtaceae sp103" 1
+"Myrtaceae sp104" 1
+"Myrtaceae sp105" 2
+"Myrtaceae sp106" 1
+"Myrtaceae sp107" 1
+"Myrtaceae sp108" 1
+"Myrtaceae sp109" 2
+"Myrtaceae sp11" 1
+"Myrtaceae sp110" 2
+"Myrtaceae sp111" 1
+"Myrtaceae sp112" 1
+"Myrtaceae sp113" 1
+"Myrtaceae sp114" 2
+"Myrtaceae sp115" 1
+"Myrtaceae sp116" 1
+"Myrtaceae sp117" 1
+"Myrtaceae sp118" 1
+"Myrtaceae sp119" 1
+"Myrtaceae sp12" 1
+"Myrtaceae sp120" 1
+"Myrtaceae sp121" 1
+"Myrtaceae sp122" 2
+"Myrtaceae sp13" 3
+"Myrtaceae sp14" 2
+"Myrtaceae sp15" 2
+"Myrtaceae sp16" 10
+"Myrtaceae sp17" 1
+"Myrtaceae sp18" 4
+"Myrtaceae sp19" 1
+"Myrtaceae sp2" 5
+"Myrtaceae sp20" 3
+"Myrtaceae sp21" 1
+"Myrtaceae sp22" 1
+"Myrtaceae sp23" 3
+"Myrtaceae sp24" 1
+"Myrtaceae sp25" 1
+"Myrtaceae sp26" 2
+"Myrtaceae sp27" 4
+"Myrtaceae sp28" 3
+"Myrtaceae sp29" 1
+"Myrtaceae sp3" 1
+"Myrtaceae sp30" 1
+"Myrtaceae sp31" 2
+"Myrtaceae sp32" 1
+"Myrtaceae sp33" 4
+"Myrtaceae sp34" 4
+"Myrtaceae sp36" 1
+"Myrtaceae sp37" 1
+"Myrtaceae sp4" 1
+"Myrtaceae sp40" 1
+"Myrtaceae sp41" 1
+"Myrtaceae sp42" 1
+"Myrtaceae sp43" 1
+"Myrtaceae sp44" 1
+"Myrtaceae sp45" 1
+"Myrtaceae sp47" 1
+"Myrtaceae sp48" 1
+"Myrtaceae sp49" 1
+"Myrtaceae sp5" 1
+"Myrtaceae sp50" 1
+"Myrtaceae sp51" 1
+"Myrtaceae sp52" 2
+"Myrtaceae sp53" 1
+"Myrtaceae sp54" 3
+"Myrtaceae sp55" 1
+"Myrtaceae sp56" 1
+"Myrtaceae sp57" 1
+"Myrtaceae sp58" 1
+"Myrtaceae sp59" 1
+"Myrtaceae sp6" 2
+"Myrtaceae sp60" 1
+"Myrtaceae sp61" 1
+"Myrtaceae sp62" 1
+"Myrtaceae sp63" 1
+"Myrtaceae sp64" 1
+"Myrtaceae sp65" 1
+"Myrtaceae sp66" 2
+"Myrtaceae sp67" 1
+"Myrtaceae sp68" 1
+"Myrtaceae sp69" 1
+"Myrtaceae sp7" 1
+"Myrtaceae sp70" 1
+"Myrtaceae sp71" 1
+"Myrtaceae sp72" 1
+"Myrtaceae sp73" 1
+"Myrtaceae sp74" 1
+"Myrtaceae sp8" 3
+"Myrtaceae sp81" 1
+"Myrtaceae sp82" 5
+"Myrtaceae sp83" 2
+"Myrtaceae sp84" 2
+"Myrtaceae sp85" 3
+"Myrtaceae sp86" 2
+"Myrtaceae sp87" 1
+"Myrtaceae sp88" 1
+"Myrtaceae sp89" 1
+"Myrtaceae sp91" 1
+"Myrtaceae sp92" 1
+"Myrtaceae sp93" 1
+"Myrtaceae sp94" 1
+"Myrtaceae sp95" 1
+"Myrtaceae sp96" 1
+"Myrtaceae sp97" 1
+"Myrtaceae sp98" 1
+"Myrtaceae sp99" 1
+"não coletada" 1
+"não encontrada08" 1
+"Naucleopsis oblongifolia (Kuhlm.) Carauta" 8
+"Nectandra cissiflora Nees" 1
+"Nectandra leucantha Nees" 2
+"Nectandra membranacea (Sw.) Griseb." 26
+"Nectandra nitidula Nees & Mart." 1
+"Nectandra oppositifolia Nees & Mart." 24
+"Nectandra puberula (Schott) Nees" 4
+"Nectandra reticulata Mez" 5
+"Nectandra sp." 1
+"Nectandra sp.1" 5
+"Nectandra sp1" 1
+"Neea sp.1" 2
+"Neomitranthes amblymitra (Burret) Mattos" 1
+"Neomitranthes glomerata (D.Legrand) Govaerts" 2
+"Neomitranthes langsdorfii (O. Berg) Mattos" 8
+"Neomitranthes sp." 1
+"Neomitranthes warmingiana (Kiaersk.) Mattos" 2
+"Neoraputia alba (Nees & Mart.) Emmerich" 35
+"NYCTAGINACEAE sp.1" 5
+"NYCTAGINACEAE sp.2" 3
+"NYCTAGINACEAE sp.3" 2
+"Nyctaginaceae sp.4" 1
+"Nyctaginaceae sp.5" 1
+"Ocotea aciphylla (Nees & Mart.) Mez" 5
+"Ocotea aciphylla (Nees &Mart.) Mez" 2
+"Ocotea aff tenuiflora (Nees) Mez" 1
+"Ocotea aff. indecora (Schott) Mez" 8
+"Ocotea aff. schottii (Meisn.) Mez" 4
+"Ocotea aniboides Mez" 1
+"Ocotea argentea Mez" 4
+"Ocotea brachybothia" 2
+"Ocotea catharinensis Mez" 6
+"Ocotea corymbosa (Meisn.) Mez" 1
+"Ocotea daphnifolia (Meisn.) Mez" 2
+"Ocotea diospyrifolia (Meisn.) Mez" 17
+"Ocotea dispersa (Nees & Mart.) Mez" 20
+"Ocotea divaricata (Nees) Mez" 13
+"Ocotea domatiata Mez" 11
+"Ocotea glauca (Nees & Mart.) Mez" 1
+"Ocotea glauca (Nees) Mez" 2
+"Ocotea glaziovii Mez" 8
+"Ocotea indecora (Schott) Mez" 2
+"Ocotea insignis Mez" 2
+"Ocotea lancifolia (Schott) Mez" 7
+"Ocotea laxa (Nees) Mez" 7
+"Ocotea mandioccana A. Quinet" 2
+"Ocotea nectandrifolia Mez" 1
+"Ocotea odorifera (Vell.) Rohwer" 9
+"Ocotea pluridomatiata A. Quinet" 2
+"Ocotea polyantha (Nees & Mart.) Mez" 1
+"Ocotea schotti/Myrtaceae sp42" 1
+"Ocotea silvestris Vattimo" 5
+"Ocotea sp" 5
+"Ocotea sp.1" 1
+"Ocotea sp.2" 3
+"Ocotea sp.3" 5
+"Ocotea sp.6" 1
+"Ocotea sp1" 1
+"Ocotea sp2" 1
+"Ocotea sp3" 1
+"Ocotea sp4" 1
+"Ocotea sp5" 1
+"Ocotea sp7" 1
+"Ocotea sp8" 2
+"Ocotea sp9" 1
+"Ocotea teleiandra (Meisn.) Mez" 1
+"Ocotea vaccinioides (Meisn.) Mez" 1
+"Ocotea villosa Kosterm." 1
+"Ocotea villosa " 1
+"Olacaceae sp1" 1
+"Olacaceae/Myrtaceae" 1
+"Oreopanax capitatus (Jacq.) Decne. & Planch." 1
+"Ormosia fastigiata Tul." 3
+"Ouratea cuspidata Tiegh." 2
+"Ouratea semiserrata (Mart. & Nees) Engl." 2
+"Ouratea sp." 2
+"Ouratea sp1" 1
+"Ouratea sp2" 1
+"Oxandra martiana (Schltdl.) R.E. Fr." 10
+"Oxandra nitida R.E. Fr." 20
+"Oxandra sp.1" 2
+"Pachira sp.1" 3
+"Pachira stenopetala Casar." 1
+"Pachystroma longifolium (Nees) I.M.Johnst." 22
+"Palicourea macrobotrys (Ruiz & Pav.) Schult." 3
+"Parapiptadenia pterosperma (Benth.)Brenan" 47
+"Paratecoma peroba (Record) Kuhlm." 18
+"Parinari brasiliensis (Schott) Hook.f." 3
+"Parinari excelsa Sabine" 6
+"Pausandra morisiana (Casar.) Radlk." 8
+"Peltogyne angustiflora Ducke" 9
+"Peltogyne discolor Vogel" 5
+"Peltogyne mattosiana Rizzini" 7
+"Peltophorum dubium (Spreng.) Taub." 10
+"Pera glabrata (Schott) Poepp. ex Baill." 31
+"Pera heteranthera (Schrank) I.M.Johnst." 14
+"Pera sp1" 1
+"Pereskia grandifolia Haw." 1
+"Persea willdenovii Kosterm." 2
+"Peschieria cf. australis (M. Arg.) Miers." 1
+"Philyra brasiliensis Klotzsch" 1
+"Phyllostemonodaphne geminiflora (Mez) Kosterm." 1
+"Phyllostylon brasiliense Capan. ex Benth. & Hook. f." 2
+"Picramnia ciliata Mart." 2
+"Picramnia glazioviana Engl." 5
+"Picramnia sp." 1
+"Picramnia sp.1" 2
+"Piper arboreum Aubl." 2
+"Piper caldense C. DC." 1
+"Piptadenia gonoacantha (Mart.)J.F.Macbr." 15
+"Plathymenia foliolosa Benth." 15
+"Plathymenia reticulata Benth." 5
+"Platymiscium floribundum Vogel" 4
+"Platypodium elegans Vogel" 3
+"Plinia cf. rivularis (Cambess.) Rotman" 3
+"Plinia edulis (Vell.) Sobral" 1
+"Plinia pseudodichasiantha (Kiaersk.) G.M.Barroso ex Sobral" 1
+"Poecilanthe falcata (Vell.)Heringer" 3
+"Poeppigia procera C. Presl" 3
+"Pogonophora schomburgkiana Miers ex Benth." 3
+"POLYGONACEAE sp." 1
+"Porcelia macrocarpa R.E.Fr." 1
+"Posoqueria acutifolia Mart." 4
+"Posoqueria latifolia (Rudge) Schult." 8
+"Pourouma guianensis Aubl." 9
+"Pouteria bangii (Rusby) T.D.Penn." 11
+"Pouteria bapeba T.D.Penn." 1
+"Pouteria bullata (S.Moore) Baehni" 2
+"Pouteria caimito (Ruiz & Pav.) Radlk." 9
+"Pouteria caimito/Duguetia microphylla/Vochysia" 1
+"Pouteria cf. reticulata (Engl.) Eyma" 1
+"Pouteria filipes Eyma" 5
+"Pouteria gardneri (Mart. & Eichler ex Miq.) Baehni" 2
+"Pouteria glomerata (Miq.) Radlk." 2
+"Pouteria guianensis Aubl." 9
+"Pouteria macahensis T.D.Penn." 3
+"Pouteria ramiflora (Mart.) Radlk." 4
+"Pouteria reticulata (Engl.) Eyma" 3
+"Pouteria sp. 1" 1
+"Pouteria sp.1 (pilosa)" 1
+"Pouteria sp.10" 4
+"Pouteria sp.2" 2
+"Pouteria sp.3" 1
+"Pouteria sp.4" 4
+"Pouteria sp.5" 1
+"Pouteria sp.6" 1
+"Pouteria sp.7" 1
+"Pouteria sp.8" 2
+"Pouteria sp2" 5
+"Pouteria sp3" 3
+"Pouteria sp4" 1
+"Pouteria sp5" 2
+"Pouteria sp6" 1
+"Pouteria sp7" 3
+"Pouteria sp8" 1
+"Pouteria sp9" 1
+"Pouteria torta (Mart.) Radlk." 5
+"Pradosia kuhlmannii Toledo" 7
+"Pradosia lactescens (Vell.) Radlk." 9
+"Pradosia sp.1" 2
+"Protium brasiliense Engl." 5
+"Protium heptaphyllum (Aubl.) Marchand" 12
+"Protium sp.1 nova" 3
+"Protium sp.2" 1
+"Protium sp1" 3
+"Protium sp2" 1
+"Protium spruceanum (Benth.) Engl." 1
+"Protium warmingianum Marchand" 2
+"Protium widgrenii Engl." 2
+"Prunus brasiliensis (Cham. & Schltdl.) D.Dietr." 6
+"Prunus myrtifolia (L.) Urb." 1
+"Pseudobombax endecaphyllum (Vell.) A. Robyns" 10
+"Pseudobombax grandiflorum (Cav.) A.Robyns" 6
+"Pseudobombax sp." 3
+"Pseudolmedia hirtula Kuhlm." 3
+"Pseudolmedia laevigata Trécul" 5
+"Pseudolmedia laevis (Ruiz & Pav.) J.F.Macbr." 1
+"Pseudopiptadenia contorta (DC.)G.P.Lewis & M.P.Lima" 72
+"Pseudopiptadenia inaequalis (Benth.)Rauschert" 6
+"Pseudopiptadenia leptostachya (Benth.)Rauschert" 1
+"Pseudopiptadenia schumanniana (Taub.)G.P.Lewis & M.P.Lima" 3
+"Pseudopiptadenia sp. (nova)" 2
+"Pseudopiptadenia sp1" 1
+"Pseudopiptadenia warmingii (Benth.)G.P.Lewis & M.P.Lima" 6
+"Psidium cattleianum Afzel. ex Sabine" 9
+"Psidium guajava L." 4
+"Psidium oligospermum Mart. ex DC." 4
+"Psidium rufum Mart. ex DC." 5
+"Psidium sp." 2
+"Psychotria" 1
+"Psychotria appendiculata Müll.Arg." 1
+"Psychotria brevicollis Müll.Arg." 1
+"Psychotria carthagenensis Jacq." 6
+"Psychotria deflexa DC." 1
+"Psychotria glaziovii Müll.Arg." 17
+"Psychotria glaziovii/Eugenia excelsa" 1
+"Psychotria glaziovii/Matayba cf. sylvatica" 1
+"Psychotria leiocarpa Cham. & Schltdl." 2
+"Psychotria mapourioides DC." 1
+"Psychotria nemorosa Gardner" 1
+"Psychotria nuda (Cham. & Schltdl.) Wawra" 5
+"Psychotria platypoda DC." 1
+"Psychotria sp1" 1
+"Psychotria sp2" 1
+"Psychotria sp3" 2
+"Psychotria sp4" 1
+"Psychotria sp5" 1
+"Psychotria sp6" 1
+"Psychotria sp7" 1
+"Psychotria sp8" 1
+"Psychotria sp9" 1
+"Psychotria stenocalyx Müll.Arg." 1
+"Psychotria vellosiana Benth." 16
+"Pterocarpus rohrii Vahl" 12
+"Pterogyne nitens Tul." 5
+"Qualea gestasiana A.St.-Hil." 1
+"Qualea sp." 1
+"Quararibea turbinata (Sw.) Poir." 3
+"Quiina glaziovii Engl." 5
+"Quiina glazovii/Hirtela hebeclada" 1
+"Quiina sp1" 1
+"Ramisia brasiliensis Oliv." 9
+"Randia armata (Sw.) DC." 8
+"Rauvolfia grandiflora Mart. ex A.DC." 4
+"Rhamnidium glabrum Reissek" 2
+"Rhodostemonodaphne macrocalyx (Meisn.) Rohwer ex Madriñán" 6
+"Rinorea bahiensis (Moric.) Kuntze" 7
+"Rinorea guianensis Aubl." 15
+"Rinorea ramiziana Glaz. ex Hekking" 3
+"Rollinia dolabripetala (Raddi) G.Don" 1
+"Rollinia laurifolia Schltdl." 5
+"Rollinia sylvatica (A.St.-Hil.) Mart." 6
+"Roupala gracilis Meisn." 5
+"Roupala longepetiolata Pohl" 6
+"Roupala longepetiolata/Quiina glazovii/Mollinedia lamprophylla" 1
+"Roupala montana Aubl." 1
+"Roupala montana var. paraensis (Huber) K.S. Edwards" 1
+"Roupala sp" 1
+"Roupala sp1" 1
+"Rubiaceae sp. 4" 3
+"Rubiaceae sp. 5" 5
+"RUBIACEAE sp.1" 2
+"Rubiaceae sp1" 4
+"Rubiaceae sp2" 1
+"Rubiaceae sp3" 1
+"Rubiaceae sp6" 2
+"Rubiaceae sp7" 2
+"Rudgea cf. erythrocarpa Müll.Arg." 1
+"Rudgea cf. interrupta Benth." 1
+"Rudgea coronata (Vell.) Müll.Arg." 3
+"Rudgea jasminoides (Cham.) Müll.Arg." 1
+"Rudgea macrophylla Benth." 2
+"Rudgea recurva Müll.Arg." 3
+"Rudgea sp." 2
+"Rudgea sp1" 1
+"Rudgea sp2" 2
+"Rudgea vellerea Müll.Arg." 3
+"Ruprechtia laurifolia (Schltdl. & Cham.) C.A. Mey." 1
+"Ruprechtia laxiflora Meisn." 1
+"Rustia formosa (Cham. & Schltdl. ex DC.) Klotzsch" 1
+"Rustia gracilis K.Schum." 1
+"Rutaceae sp.1" 1
+"Rutaceae sp.2" 2
+"Rutaceae sp1" 1
+"Sagotia racemosa Baill." 8
+"Sapindaceae" 1
+"Sapindaceae sp1" 2
+"Sapindaceae sp2" 1
+"Sapindus saponaria L." 1
+"Sapium glandulosum (L.) Morong" 1
+"Sapium sp." 1
+"Sapotaceae" 1
+"Sapotaceae sp. 1" 3
+"SAPOTACEAE sp.2" 1
+"SAPOTACEAE sp.3" 1
+"SAPOTACEAE sp.4" 1
+"SAPOTACEAE sp.5" 1
+"SAPOTACEAE sp.6" 1
+"SAPOTACEAE sp.7" 1
+"Sapotaceae sp10" 1
+"Sapotaceae sp11" 1
+"Sapotaceae sp12" 2
+"Sapotaceae sp13" 1
+"SAPOTACEAE sp14" 2
+"Sapotaceae sp2" 4
+"Sapotaceae sp3" 1
+"Sapotaceae sp4" 1
+"Sapotaceae sp5" 1
+"Sapotaceae sp6" 1
+"Sapotaceae sp7" 2
+"Sapotaceae sp8" 1
+"Sapotaceae sp9" 3
+"Sarcaulus brasiliensis (A.DC.) Eyma" 4
+"Sarcaulus cf. brasiliensis (A.DC.) Eyma" 2
+"Schefflera angustissima (Marchal) Frodin" 9
+"Schefflera longipetiolata (Pohl ex DC.) Frodin & Fiaschi" 2
+"Schefflera morototoni (Aubl.) Maguire, Steyerm. & Frodin" 2
+"Schefflera sp1" 1
+"Schinus terebinthifolius Raddi" 6
+"Schizocalyx cuspidatus (A.St.-Hil.) Kainul. & B.Bremer" 5
+"Schizolobium parahyba (Vell.) Blake" 3
+"Sebastiania brasiliensis Spreng." 7
+"Sebastiania commersoniana (Baill.) L.B.Sm. & Downs" 6
+"Sebastiania sp.1" 1
+"Senefeldera verticillata (Vell.) Croizat" 66
+"Senegalia kallunkiae (J.W. Grimes & Barneby) Seigler & Ebinger" 7
+"Senegalia kallunkiae (J.W.Grimes & Barneby) Seigler & Ebinger" 1
+"Senegalia polyphylla (DC.) Britton" 28
+"Senegalia polyphylla (DC.) Britton & Rose" 4
+"Senegalia sp." 4
+"Senna multijuga (Rich.) H.S.Irwin & Barneby" 1
+"Sideroxylon obtusifolium (Roem. & Schult.) T.D.Penn." 3
+"Simaba amara Aubl." 5
+"Simaba cf. cedron Planch." 1
+"Simaba cf. subcymosa A. St.-Hil. & Tul." 1
+"Simaba sp1" 1
+"Simarouba amara Aubl." 9
+"SIMAROUBACEAE sp." 1
+"Simira pikia (K.Schum.) Steyerm." 2
+"Siparuna guianensis Aubl." 58
+"Siparuna reginae (Tul.) A.DC." 31
+"Siparuna sp1" 1
+"Siphoneugena crassifolia (DC.) Proença & Sobral" 2
+"Siphoneugena densiflora O.Berg" 2
+"Sloanea cf. garckeana K.Schum." 1
+"Sloanea guianensis (Aubl.) Benth." 11
+"Sloanea guianensis/Coccoloba" 1
+"Sloanea hirsuta (Schott) Planch. ex Benth." 2
+"Sloanea monosperma Vell." 5
+"Sloanea retusa Uittien" 2
+"Sloanea sp.1" 1
+"Sloanea sp1" 1
+"SOLANACEAE sp." 1
+"Solanaceae sp. 1" 1
+"Solanum argenteum Dunal" 1
+"Solanum cf. pseudoquina A. St.-Hil." 3
+"Solanum leucodendron Sendtn." 5
+"Solanum schlechtendalianum Walp." 1
+"Solanum sp" 1
+"Solanum sp1" 4
+"Solanum sp2" 1
+"Solanum sp3" 1
+"Solanum swartzianum Roem. & Schult." 2
+"Solanum sycocarpum Mart. & Sendtn." 3
+"Sorocea bonplandii (Baill.) W.C.Burger, Lanj. & de Boer" 8
+"Sorocea cf. guilleminiana Gaudich." 3
+"Sorocea guilleminiana Gaudich." 12
+"Sorocea hilarii Gaudich." 1
+"Sorocea racemosa Gaudich." 2
+"Sparattosperma leucanthum (Vell.) K.Schum." 23
+"Spondias venulosa (Engl.) Engl." 8
+"spp. Indet" 1
+"spp. Indet 2" 1
+"Stephanopodium blanchetianum Baill." 3
+"Stephanopodium estrellense Baill." 4
+"Sterculia curiosa (Vell.) Taroda" 6
+"Stifftia chrysantha J.C.Mikan" 1
+"Strychnos acuta Progel" 2
+"Stryphnodendron adstringens (Mart.)Coville" 1
+"Stryphnodendron polyphyllum Mart." 1
+"Stylogyne depauperata Mez" 2
+"Stylogyne lhotzkyana (A.DC.) Mez" 2
+"Swartzia apetala Raddi" 10
+"Swartzia flaemingii Raddi" 2
+"Swartzia langsdorffii Raddi" 1
+"Swartzia myrtifolia Sm." 6
+"Swartzia myrtifolia var. elegans (Schott.) R.S. Cowan" 7
+"Swartzia oblata R.S.Cowan" 3
+"Swartzia simplex (Sw.)Spreng." 3
+"Swartzia simplex var. continentalis Urb." 1
+"Sweetia fruticosa Spreng." 1
+"Syagrus cf. romanzoffiana (Cham.) Glassman" 1
+"Symphonia globulifera L.f." 1
+"Symplocos sp1" 2
+"Syzygium jambos (L.) Alston" 7
+"Tabebuia cassinoides (Lam.) DC." 1
+"Tabebuia roseoalba (Ridl.) Sandwith" 6
+"Tabebuia sp1" 3
+"Tabernaemontana catharinensis A.DC." 9
+"Tabernaemontana laeta Mart." 21
+"Tabernaemontana sp1" 1
+"Tachigali denudata (Vogel) Oliveira-Filho" 5
+"Tachigali paratyensis (Vell.) H.C. Lima" 7
+"Tachigali pilgeriana (Harms) Oliveira-Filho" 6
+"Tachigali urbaniana/Roupala gracilis/Guapira opposita" 1
+"Talisia cerasina Radlk." 2
+"Talisia coriacea Radlk." 30
+"Tapirira guianensis Aubl." 40
+"Terminalia argentea Mart." 1
+"Terminalia catappa L." 1
+"Terminalia glabrescens Mart." 3
+"Terminalia januarensis DC." 3
+"Terminalia kuhlmannii Alwan & Stace" 10
+"Terminalia riedelii Eichler" 1
+"Terminalia sp.1" 2
+"Terminalia sp.2" 3
+"Terminalia sp.3" 1
+"Terminalia sp1" 2
+"Tetrastylidium grandifolium (Baill.) Sleumer" 13
+"Tetrorchidium rubrivenium Poepp." 5
+"Tibouchina arborea Cogn." 1
+"Tibouchina estrellensis (Raddi) Cogn." 2
+"Tocoyena sellowiana (Cham. & Schltdl.) K.Schum." 2
+"Toulicia laevigata Radlk." 2
+"Toulicia sp." 2
+"Toulicia subsquamulata Radlk." 6
+"Tovomita glazioviana Engl." 3
+"Tovomita leucantha (Schltdl.) Planch. & Triana" 1
+"Tovomita paniculata (Spreng.) Cambess." 5
+"Trattinnickia ferruginea Kuhlm." 4
+"Trichilia aff. luciae Barreiros" 1
+"Trichilia casaretti C. DC." 47
+"Trichilia catigua A.Juss." 7
+"Trichilia cf. hirta L." 4
+"Trichilia claussenii C. DC." 1
+"Trichilia elegans A.Juss." 25
+"Trichilia hirta L." 3
+"Trichilia lepidota Mart." 48
+"Trichilia martiana C.DC." 15
+"Trichilia pallida Sw." 7
+"Trichilia pseudostipularis (A. Juss.) C. DC." 18
+"Trichilia ramalhoi Rizzini" 14
+"Trichilia silvatica C. DC." 12
+"Trichilia sp.1" 28
+"Trichilia sp.2" 2
+"Trichilia sp.3" 1
+"Trichilia sp.4" 1
+"Trichilia sp1" 1
+"Trichilia sp2" 1
+"Trichilia tomentosa Kunth" 1
+"Trigonia nivea Cambess." 1
+"Trigoniodendron spiritusanctense E.F. Guim. & Miguel" 29
+"Trigynaea oblongifolia Schltdl." 2
+"Tripterodendron filicifolium Radlk." 1
+"Unonopsis cf. sanctae-teresae Maas & Westra" 4
+"Unonopsis riedeliana R.E. Fr." 3
+"Urbanodendron bahiense (Meisn.) Rohwer" 13
+"Urbanodendron sp1" 1
+"Urbanodendron verrucosum (Nees) Mez" 6
+"Urera baccifera (L.) Gaudich. ex Wedd." 2
+"Vatairea heteroptera (Allemão) Ducke" 4
+"Verbenaceae" 1
+"Vernonanthura discolor H.Rob." 4
+"Vernonanthura divaricata (Spreng.) H.Rob." 1
+"Virola aff. gardneri (A.DC.) Warb." 1
+"Virola bicuhyba (Schott) Warb." 18
+"Virola gardneri (A.DC.) Warb." 20
+"Virola sebifera Aubl." 1
+"Vismia aff. martianaReichardt" 1
+"Vismia guianensis (Aubl.) Pers." 3
+"Vismia martiana Reichardt" 2
+"Vitex polygama Cham." 1
+"Vitex sp." 1
+"Vitex sp.1" 2
+"Vochysia angelica M.C. Vianna & Fontella" 3
+"Vochysia gummifera Mart. ex Warm." 5
+"Vochysia laurifolia Warm." 11
+"Vochysia oppugnata (Velloso) Warm." 1
+"Vochysia rectiflora Warm." 5
+"Vochysia saldanhana Warm." 3
+"Vochysia sp.1" 3
+"Vochysiaceae sp1/Myrcia laxiflora/Quiina" 1
+"Xylopia brasiliensis Spreng." 4
+"Xylopia laevigata (Mart.) R.E. Fr." 5
+"Xylopia langsdorfiana St.Hilaire & Tulasne" 1
+"Xylopia sericea A.St.-Hil." 31
+"Xylosma glaberrima Sleumer" 3
+"Xylosma prockia (Turcz.) Turcz." 4
+"Zanthoxylum fagara (L.) Sarg." 1
+"Zanthoxylum rhoifolium Lam." 15
+"Zanthoxylum riedelianum Engl." 2
+"Zeyheria tuberculosa (Vell.) Bureau ex Verl." 5
+"Ziziphus glaziovii Warm." 5
+"Ziziphus platyphylla Reissek" 5
+"Ziziphus sp.1" 2
+"Zollernia glabra (Spreng.)Yakovlev" 11
+"Zollernia ilicifolia (Brongn.)Vogel" 6
+"Zygia latifolia (L.)Fawc. & Rendle" 7
+"indet m" 2
