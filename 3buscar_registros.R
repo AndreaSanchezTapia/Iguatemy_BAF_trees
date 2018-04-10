@@ -1,26 +1,31 @@
 library(dplyr)
-spp <- read.csv("./output/gettaxaresults.csv", row.names = 1)
+library(readxl)
 library(rgbif)
+spp <- read_excel("./data/nombres/org_names_final.xlsx",
+                  sheet = "final")
 
-spp <- spp %>% filter(!is.na(id)) %>% filter(no_authors != "?")
+spp <- spp %>% select(1)
 dim(spp)
-nombres <- sort(unique(droplevels(spp$no_authors)))
+length(unique(spp$`Lista final com sub espécies e variações`))
+nombres <- sort(unique(spp$`Lista final com sub espécies e variações`))
 
 key <- vector(length = length(nombres))
 
 write.table(nombres, "./data/nombres.txt")
+#antes:
 #aqui fiz a mão para tirar famílias, gëneros, sp. aff. e cf.
-nombres_processed <- read.table("./data/nombres/nombres_processed.txt")
-head(nombres_processed)
-nombres <- sort(unique(nombres_processed$V2))
+#nombres_processed <- read.table("./data/nombres/nombres_processed.txt")
+#head(nombres_processed)
+#nombres <- sort(unique(nombres_processed$V2))
+#agora:
+#mariana já limpou isto
 
 
 length(nombres)
-#aqui deve ser 1 a 742 mas fiz por levas - modifico para que cate todos os keys e elimine duplicados:
-for (i in c(208:300)) {
+#aqui deve ser 1 a 753 mas fiz por levas - modifico para que cate todos os keys e elimine duplicados:
+for (i in c(1:10)) {
     print(nombres[i])
     key <- name_suggest(q = nombres[i], rank = 'species')$key
-
     print(key)
     if (!is.null(key)) {
         occs <- list()
