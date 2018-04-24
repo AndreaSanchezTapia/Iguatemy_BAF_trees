@@ -128,28 +128,6 @@ dim(dupli)
 poli_nondupl <- occs_land[!duplicated(cbind(occs_land$decimalLongitude, occs_land$decimalLatitude)),]
 dim(poli_nondupl)
 
-# #vector a vr si hay true false - no dio en nada y se demoró horrores
-# dupl.vector2 <- vector(length = nrow(occs_land))
-# i <- 1
-# for (i in 1:length(dupl.vector2)) {
-# #dupl.vector[i] <- occs_land$decimalLongitude[i] %in% dupli[,1] & occs_land$decimalLatitude[i] %in% dupli[,2]
-# dupl.vector2 <-
-#     }
-# table(dupl.vector)
-
-####no rodar#########
-# test.dplyr <- occs_land %>% select(decimalLongitude, decimalLatitude) %>% unique()
-# dim(occs_land)
-# dim(test.dplyr)
-# dim(poli_dupl)
-# dim(poli_nondupl)
-# #mejor marcarlos que quitarlos...
-# ####PAILA también, no rodar#####
-# occs_land$duplicado_poli <- ifelse(duplicated(cbind(occs_land$decimalLongitude, occs_land$decimalLatitude)),"yes","no")
-# head(occs_land)
-# write.csv(occs_land, "./output/limpiar.csv")
-####PAILA también, no rodar#####
-
 
 ### La solucion_ encotnrado en internet
 dat1 <- data.frame(occs_land$decimalLongitude, occs_land$decimalLatitude)
