@@ -71,143 +71,75 @@ w <-  getData('worldclim', var = 'bio', res = 2.5)
     write.csv(file = paste0("./data/occs_clean/",nombres_occs$X1[i],".csv"))
 }
 #una lista de puntos sin NA.s
-#no hay repetidos para cada especie, no hay nada en el mar pero hay coordenadas sospechosas
-ocurrencias <- list.files("./data/occs",full.names = T)[-1] %>%
-    purrr::map(., read.csv)
+
+# no hay repetidos para cada especie, no hay nada en el mar pero hay coordenadas sospechosas
+# lee todas las ocurrencias limpias
+library(dplyr)
+
+ocurrencias.clean <- list.files("./data/occs_clean",full.names = T) %>%
+    purrr::map(., read.csv, row.names = 1)
+nombres_occs <- list.files("./data/occs_clean/") %>%
+    stringr::str_split(".csv",simplify = T) %>%
+    data.frame() %>% dplyr::select(1)
+
+#quitar ocurrencias extrañas----
+vetted <- read.csv("data/vetted coordinates.csv", sep = ";", colClasses = c("numeric", "numeric"))
+#vetted <- round(vetted, 4)
+log <- list()
+
+dir.create("./data/occs_clean_vetted")
+for (i in seq_along(ocurrencias.clean)) {
+    df <- ocurrencias.clean[[i]] %>%
+        rename(lon = decimalLongitude, lat = decimalLatitude) %>%
+        mutate(lon = round(lon, 5), lat = round(lat, 5))
+    log[[i]] <- semi_join(df,vetted)
+    df.with.no.strange <- anti_join(df, vetted)
+    write.csv(df.with.no.strange, file = paste0("./data/occs_clean_vetted/", nombres_occs$X1[i],".csv"))
+    if (nrow(df) != nrow(df.with.no.strange)) cat(paste(nombres_occs$X1[i],nrow(df) - nrow(df.with.no.strange), "points deleted \n"))
+}
 
 # pintar mapas limpios----
-library(dplyr)
-#crea los mapas limpios
+ocurrencias.clean2 <- list.files("./data/occs_clean_vetted/",full.names = T) %>%
+    purrr::map(., read.csv, row.names = 1)
+nombres_occs <- list.files("./data/occs_clean_vetted/") %>%
+    stringr::str_split(".csv",simplify = T) %>%
+    data.frame() %>% dplyr::select(1)
+#crea los mapas limpios-----
 dir.create("./data/maps_clean")
-
-#sp <- unique(occs_land$name)[1]
-for (sp in unique(occs_land$name)) {
+for (i in seq_along(ocurrencias.clean2)) {
+    sp <- nombres_occs$X1[i]
     pdf(paste0("./data/maps_clean/", sp, ".pdf"))
     maps::map(, c("Mexico","Argentina","Brazil"))
     maps::map(add = T)
-    occs_sp <- occs_land %>% as.tbl() %>%
-        dplyr::filter(name == sp) %>%
-        dplyr::select(decimalLongitude, decimalLatitude)
-    points(occs_sp$decimalLongitude,
-           occs_sp$decimalLatitude,
+    points(ocurrencias.clean2[[i]]$lon,
+           ocurrencias.clean2[[i]]$lat,
            col = "red")
     title(sp)
     dev.off()
-}
-#creo que no fue suficiente: quitó las cosas en el mar.
+    }
 
-#igual pero para todo el mundo
-for (sp in unique(occs_land$name)) {
+#igual pero para todo el mundo (tum dünya için)
+for (i in seq_along(ocurrencias.clean2)) {
+    sp <- nombres_occs$X1[i]
     pdf(paste0("./data/maps_clean/", sp, "_world.pdf"))
     maps::map(, ,)
-    occs_sp <- occs_land %>% as.tbl() %>%
-        dplyr::filter(name == sp) %>%
-        dplyr::select(decimalLongitude, decimalLatitude)
-    points(occs_sp$decimalLongitude,
-           occs_sp$decimalLatitude,
+    points(ocurrencias.clean2[[i]]$lon,
+           ocurrencias.clean2[[i]]$lat,
            col = "red")
     title(sp)
     dev.off()
 }
-### falta quitar esos puntos de los polígonos
+
+###toca volver a ver vetted -- voy a revisar los mapas a mano y seguir completando la list
+# anti join y en general r tienen problemas cuando se trata de reconocer numeros floating point ntonces tocaba redondear a 5 digitos todo.
+
+library(sp)
 maps::map(,,)
-points(occs_land$decimalLongitude,
-       occs_land$decimalLatitude,
-       col = "red")
+pts <- ocurrencias.clean2[[1]] %>% select("lon","lat") %>% SpatialPoints(.)
+points(pts, col = "red")
+selected <- raster::select(pts, use = 'rec')
+selected@coords
 
-
-a <- maps::map(,,)
-b <- map.text("world",)
-str(b)
-plot(b$x, b$y)
-
-poli_dupl <- occs_land[duplicated(cbind(occs_land$decimalLongitude, occs_land$decimalLatitude)),]
-dim(poli_dupl)
-dupli <- cbind(occs_land$decimalLongitude, occs_land$decimalLatitude)[duplicated(cbind(occs_land$decimalLongitude, occs_land$decimalLatitude)),]
-dim(dupli)
-poli_nondupl <- occs_land[!duplicated(cbind(occs_land$decimalLongitude, occs_land$decimalLatitude)),]
-dim(poli_nondupl)
-
-
-### La solucion_ encotnrado en internet
-dat1 <- data.frame(occs_land$decimalLongitude, occs_land$decimalLatitude)
-idx <- sapply(dat1,function(x) !is.na(match(x,x[duplicated(x)])))
-dat1$dup <- apply(idx, 1, function(x) ifelse(all(x) == TRUE, TRUE, FALSE))
-table(dat1$dup)
-dim(dat1)
-head(dat1)
-dim(occs_land)
-head(occs_land)
-names(dat1)
-names(occs_land)
-names(dat1) <- c("decimalLongitude", "decimalLatitude","dup")
-duplicates_checked <- left_join(occs_land[,-24], dat1)
-head(duplicates_checked)
-duplicates_checked2 <- duplicates_checked[!duplicated(duplicates_checked),]
-head(duplicates_checked2)
-dim(duplicates_checked2)
-write.csv(duplicates_checked2, "com_duplicados.csv")
-####NUNCAFILTRÊ POR DUP__F
-####abrir en excel para ver...
-
-#sin dupl de poli?
-#aqui para detectar coordenadas raras y marcarlas en el excel
-#length(unique(poli_nondupl$name))
-#length(unique(occs_land$name))
-for (sp in unique(duplicates_checked2$name)[33]) {
-    #pdf(paste0("./data/maps_clean/", sp, "_world_poli_dupl.pdf"))
-    maps::map(, ,)
-    occs_sp <- duplicates_checked2 %>% as.tbl() %>%
-        dplyr::filter(name == sp) %>%
-        dplyr::select(decimalLongitude, decimalLatitude, dup)
-    points(occs_sp$decimalLongitude,
-           occs_sp$decimalLatitude,
-           col = ifelse(occs_sp$dup == T, "red", "green"))
-    title(sp)
-    #dev.off()
-}
-
-aa <- occs_sp %>% select("decimalLongitude","decimalLatitude") %>% SpatialPoints()
-points(aa)
-raster::select(aa, use = 'rec')
-library(readxl)
-dupls <- read_excel("./output/com_duplicados.xlsx",sheet = )
-dupls <- dupls %>% filter(is.na(cleaning))
-dim(dupls)
-
-
-#creo que se queda así
-
-for (sp in unique(dupls$name)) {
-    pdf(paste0("./output/maps_clean/", sp, "_final.pdf"))
-    maps::map(, ,)
-    occs_sp <- dupls %>% as.tbl() %>%
-        dplyr::filter(name == sp) %>%
-        dplyr::select(decimalLongitude, decimalLatitude, dup)
-    points(occs_sp$decimalLongitude,
-           occs_sp$decimalLatitude,
-           col = ifelse(occs_sp$dup == T, "red", "green"))
-    title(sp)
-    dev.off()
-}
-
-#####ahora los intervalos pero ya acá se puede àsar al script siguiente....
-###aqui una tentativa de comparar las consecuencias del data cleaning. hacer después de limpiar mesmo.
-library(tidyr)
-library(ggplot2)
-names(occs_land)
-names(dupls)
-#tidy_occs <- gather(occs_land, key = "VARIABLE",,5:23)
-tidy_land <- occs_land %>% select(-24) %>% mutate(Data = "clean") %>% gather(key = "VARIABLE",,5:23)
-
-tidy_poli <- dupls %>% select(-c(1,25,26)) %>% mutate(Data = "Poli") %>% gather(key = "VARIABLE",,5:23)
-
-tidy_data <- rbind(tidy_land,tidy_poli)
-
-tidy_data %>%
-    filter(name == unique(tidy_data$name)[28]) %>%
-    ggplot(aes(x = VARIABLE,y = value)) +
-    geom_boxplot(aes(col = Data))
-### no voy a quedarme comparando
-
+#####ya acá se puede pasar al script siguiente....
+###aqui habia una tentativa de comparar las consecuencias del data cleaning. antes y despues y boxplots.
 
