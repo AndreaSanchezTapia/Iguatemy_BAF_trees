@@ -1,21 +1,31 @@
 library(readxl)
 library(dplyr)
 library(tidyr)
+#esta fue creada con codigo viejo encontrado en itnernet para detectar cualquier duplicado - como ahora es especie por especie no lo estoy usando pero se podrían extraer mas vetted coordinates?
 
 dupls <- read_excel("./output/com_duplicados.xlsx",sheet = )
 dupls <- dupls %>% filter(is.na(cleaning))
 dim(dupls)
 names(dupls)
-knitr::kable(table(dupls$name))
-hist(table(dupls$name), xlab = "")
-table(dupls$name)[which.min(table(dupls$name))]
-table(dupls$name)[which.max(table(dupls$name))]
-tidy_poli <- dupls %>%
-    dplyr::select(-c(1,25,26)) %>%
-    mutate(Data = "Poli") %>%
-    gather(key = "VARIABLE", , 5:23)
+#quiero comparar estas dimensiones
+ocurrencias.clean2 <- list.files("./data/occs_clean_vetted/",full.names = T) %>%
+    purrr::map(., read.csv, row.names = 1)
+all.clean.vetted <- data.table::rbindlist(ocurrencias.clean2)
+dim(all.clean.vetted)#ok, perdí menos cosas? tengo más especies? ni idea.
 
-dplyr::glimpse(tidy_poli)
+nombres_occs <- list.files("./data/occs_clean_vetted/") %>%
+    stringr::str_split(".csv",simplify = T) %>%
+    data.frame() %>% dplyr::select(1)
+
+
+table(dupls$name)[which.min(table(dupls$name))]
+table(all.clean.vetted$name)[which.min(table(all.clean.vetted$name))]
+table(dupls$name)[which.max(table(dupls$name))]
+table(all.clean.vetted$name)[which.max(table(all.clean.vetted$name))]
+
+#ahora todo esto es con all.clean.vetted
+#podría ser para cada una pero bof
+
 #Recordando a worldclim
 # BIO1 = Annual Mean Temperature
 # BIO2 = Mean Diurnal Range (Mean of monthly (max temp - min temp))
@@ -40,58 +50,50 @@ dplyr::glimpse(tidy_poli)
 ###La tentativa va a ser basada en esto
 #https://www.painblogr.org/2017-10-18-purrring-through-bootstraps.html#fnref2
 
-data_nest <- tidy_poli %>%
-    #First I filter the variables that I want
-    dplyr::filter(VARIABLE %in% c("bio1", "bio7", "bio12", "bio15")) %>%
-    # First I group the data by species
-    dplyr::group_by(name, VARIABLE)
-
-data_nest %>% filter(VARIABLE)
-summarise(data_nest, max = max())
-    # Then I nest the dataframe
-    tidyr::nest()
-data_nest
-boot_max <- function(d, i) {
-    max(d[i])
-}
 
 
 
-
-dupls2 <- dupls %>%
-    dplyr::select(-c(1,25,26)) %>% group_by(name)
-names(dupls2)
-data_spp <- summarise(dupls2,
+all.v <- all.clean.vetted %>%
+    dplyr::select(-c(1,3,6,7)) %>% group_by(name)
+names(all.v)
+data_spp <- summarise(all.v,
                       n = n(),
-          minlat = min(decimalLatitude),
-          lat.05 = quantile(decimalLatitude, 0.05),
-          lat.50 = quantile(decimalLatitude, 0.5),
-          lat.95 = quantile(decimalLatitude, 0.95),
-          maxlat = max(decimalLatitude),
-          minlon = min(decimalLongitude),
-          lon.05 = quantile(decimalLongitude, 0.05),
-          lon.50 = quantile(decimalLongitude, 0.5),
-          lon.95 = quantile(decimalLongitude, 0.95),
-          maxlon = max(decimalLongitude),
-          mintemp = min(bio1),
-          temp.05 = quantile(bio1, 0.05),
-          temp.50 = quantile(bio1, 0.5),
-          temp.95 = quantile(bio1, 0.95),
-          maxtemp = max(bio1),
-          trangemin = min(bio7),
-          trange.05 = quantile(bio7, 0.05),
-          trange.50 = quantile(bio7, 0.5),
-          trange.95 = quantile(bio7, 0.95),
-          trangemax = max(bio7),
-          minp = min(bio12),
-          p.05 = quantile(bio12, 0.05),
-          p.50 = quantile(bio12, 0.5),
-          p.95 = quantile(bio12, 0.95),
-          maxp = max(bio12),
-          seasonpmin = min(bio15),
-          seasonp.05 = quantile(bio15, 0.05),
-          seasonp.50 = quantile(bio15, 0.5),
-          seasonp.95 = quantile(bio15, 0.95),
-          seasonpmax = max(bio15))
+                      #minlat = min(lat),
+                      lat.05 = quantile(lat, 0.05),
+                      lat.50 = quantile(lat, 0.5),
+                      lat.95 = quantile(lat, 0.95),
+                      #maxlat = max(lat),
+                      #minlon = min(lon),
+                      lon.05 = quantile(lon, 0.05),
+                      lon.50 = quantile(lon, 0.5),
+                      lon.95 = quantile(lon, 0.95),
+                      #maxlon = max(lon),
+                      #mintemp = min(bio1),
+                      temp.05 = quantile(bio1, 0.05),
+                      temp.50 = quantile(bio1, 0.5),
+                      temp.95 = quantile(bio1, 0.95),
+                      #maxtemp = max(bio1),
+                      #trangemin = min(bio7),
+                      trange.05 = quantile(bio7, 0.05),
+                      trange.50 = quantile(bio7, 0.5),
+                      trange.95 = quantile(bio7, 0.95),
+                      #trangemax = max(bio7),
+                      #minp = min(bio12),
+                      p.05 = quantile(bio12, 0.05),
+                      p.50 = quantile(bio12, 0.5),
+                      p.95 = quantile(bio12, 0.95),
+                      #maxp = max(bio12),
+                      #seasonpmin = min(bio15),
+                      seasonp.05 = quantile(bio15, 0.05),
+                      seasonp.50 = quantile(bio15, 0.5),
+                      seasonp.95 = quantile(bio15, 0.95),
+                      #seasonpmax = max(bio15)
+                      delta.lat = lat.95 - lat.05,
+                      delta.lon = lon.95 - lon.05,
+                      delta.temp = temp.95 - temp.05,
+                      delta.trange = trange.95 - trange.05,
+                      delta.p = p.95 - p.05,
+                      delta.pseason = seasonp.95 - seasonp.05,
+                      )
 write.csv(data_spp, "./output/resumospp.csv")
-####falta chequear
+
