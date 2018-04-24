@@ -94,6 +94,7 @@ data_spp <- summarise(all.v,
                       delta.trange = trange.95 - trange.05,
                       delta.p = p.95 - p.05,
                       delta.pseason = seasonp.95 - seasonp.05,
-                      )
+                      ) %>% select(name, n, contains(".50"), starts_with("delta"))
+data_spp
 write.csv(data_spp, "./output/resumospp.csv")
 
