@@ -1,76 +1,81 @@
 # esto está bien desordenado...
 library(purrr)
 library(maps)
-#sin limpiar
-ocurrencias <- map(list.files("./data/occs",full.names = T), read.csv)
-nombres_occs <- list.files("./data/occs") %>%
+# occurrencias sin limpiar----
+ocurrencias <- list.files("./data/occs",full.names = T)[-1] %>%
+    purrr::map(., read.csv)
+nombres_occs <- list.files("./data/occs")[-1] %>%
     stringr::str_split(".csv",simplify = T) %>%
-    data.frame() %>% dplyr::select(1) %>% write.table("nombres_occs.txt")
-
+    data.frame() %>% dplyr::select(1)
+write.table(x = nombres_occs, "nombres_occs.txt")
+nombres_occs$X1
 length(ocurrencias)
 names(ocurrencias[[1]])
 
-#crea los mapas originales
-dir.create("./data/maps")
-#i <- 1
-for (i in seq_along(ocurrencias)) {
-    sp <- unique(ocurrencias[[i]]$name)
-    pdf(paste0("./data/maps/", sp, ".pdf"))
-    maps::map(, "Brazil", )
-    maps::map(add = T)
-    points(ocurrencias[[i]]$decimalLongitude,
-           ocurrencias[[i]]$decimalLatitude,
-           col = "red")
-    title(sp)
-dev.off()
-}
+#crea los mapas sin limpiar pero solo una vez----
+# dir.create("./data/maps")
+# #i <- 1
+# for (i in seq_along(ocurrencias)) {
+#     sp <- unique(ocurrencias[[i]]$name)
+#     pdf(paste0("./data/maps/", sp, ".pdf"))
+#     maps::map(, "Brazil", )
+#     maps::map(add = T)
+#     points(ocurrencias[[i]]$decimalLongitude,
+#            ocurrencias[[i]]$decimalLatitude,
+#            col = "red")
+#     title(sp)
+# dev.off()
+# }
 
-#crea la tabla completa
+# crea una tabla completa pero yano la usa----
 library(data.table)
 gbif_all <- rbindlist(l = ocurrencias,
-                      use.names = T,
-                      fill = T
-                      #idcol = "id"
-                      )
+                       use.names = T,
+                       fill = T
+                       #idcol = "id"
+                       )
 
 head(gbif_all)
 dim(gbif_all)
 write.csv(gbif_all, "./data/gbif_all.csv")
-
-# limpiar datos
-gbif_all <- read.csv("./data/gbif_all.csv",row.names = 1)
+#
+# ya no limpia datos a partir de la tabla grande
+#gbif_all <- read.csv("./data/gbif_all.csv",row.names = 1)
 head(gbif_all)
 dim(gbif_all)
-
-# limpia los datos
-# duplicados
-library(dplyr)
+#
+# # limpia los datos
+# # duplicados
+# library(dplyr)
 occs_clean <- gbif_all %>%
-    select(name, decimalLatitude, decimalLongitude) %>%
-    distinct()
-dim(occs_clean)
-write.csv(occs_clean, "./data/occs_clean.csv")
+     select(name, decimalLatitude, decimalLongitude) %>%
+     distinct()
+ dim(occs_clean)
+ write.csv(occs_clean, "./data/occs_clean.csv")
+#occs_clean <- read.csv( "./data/occs_clean.csv", row.names = 1)
 
-
-occs_clean <- read.csv( "./data/occs_clean.csv", row.names = 1)
-#bajar wordlclim
+#bajar wordlclim----
 library(raster)
 w <-  getData('worldclim', var = 'bio', res = 2.5)
 #no toca leer esto de nuevo, w ya tiene todo, es una lista
-#cosas que caen en el mar
-pts <- SpatialPoints(cbind(occs_clean$decimalLongitude,occs_clean$decimalLatitude))
-occs_extract <- extract(w, pts, cellnumber = T)
-head(occs_extract)
-occs_data <- cbind(occs_clean, occs_extract)
-head(occs_data)
-occs_land <- occs_data[complete.cases(occs_extract),]
-head(occs_land)
-dim(occs_data)
-dim(occs_land)
-names(occs_land)
 
+#cosas que caen en el mar----
+    for (i in seq_along(ocurrencias)) {
+        df <- ocurrencias[[i]]
+        df %>% dplyr::select(decimalLongitude, decimalLatitude) %>%
+            SpatialPoints() %>%
+            raster::extract(w,.,cellnumber = T) %>%
+    data.frame() %>% cbind(df,.) %>%
+            distinct(cells, .keep_all = T) %>%
+    filter(!is.na(bio1)) %>%
+    write.csv(file = paste0("./data/occs_clean/",nombres_occs$X1[i],".csv"))
+}
+#una lista de puntos sin NA.s
+#no hay repetidos para cada especie, no hay nada en el mar pero hay coordenadas sospechosas
+ocurrencias <- list.files("./data/occs",full.names = T)[-1] %>%
+    purrr::map(., read.csv)
 
-#mapas limpios
+# pintar mapas limpios----
 library(dplyr)
 #crea los mapas limpios
 dir.create("./data/maps_clean")
