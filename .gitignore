@@ -12,3 +12,5 @@ maps.zip
 wc2-5
 limpiar.csv
 data/biomas
+*.zip
+com_duplicados.csv
